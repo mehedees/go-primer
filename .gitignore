@@ -1,0 +1,11 @@
+# Build output
+/bin/
+coverage.out
+
+# Local environment (copy .env.example to .env)
+.env
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
